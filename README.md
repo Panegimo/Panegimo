@@ -1,21 +1,38 @@
-## Hi there 👋
+# Hi there! 👋 I'm Patience
 
-<!--
-**Panegimo/Panegimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### The Analytical Advocate 📊✨
 
-**💬 About Me**
-I am a data and analytics professional with an M.Sc. in Business Analytics and a background in bridging technical complexity with business execution. My career has evolved through roles in technical writing and business analysis, with a consistent focus on how data-backed decisions can optimize product workflows.
+I am a **Senior Analyst at Accenture** with a background in **International Relations** and an **M.Sc. in Business Analytics and a minor in Supply Chain**. I describe myself as a "builder". I love to drive operational excellence and business optimization process, making meaningful insights out of complex data without losing sight of the human on the other side of the screen. My goal is to balance high-level expertise with a tech-optimistic mindset to bring about safer, more efficient business decisions.
 
-**Core Competencies:**
-AI Strategy & Safety: Experience reviewing and refining technical documentation for Project Gemini, ensuring AI model behaviors and outputs met rigorous safety and quality standards.
-Operational Excellence: Six Sigma Green Belt focused on identifying bottlenecks and engineering processes to improve delivery efficiency.
-Data & Logistics: Experienced in SQL, Tableau, and AWS Cloud for translating raw datasets into actionable insights and automated analytical models.
+---
 
-**Experience Highlights**
-During my time at Accenture, I specialized in making complex systems more efficient. This included reducing manual data processing time by 50% and partnering with over 10 cross-functional stakeholders to prioritize business requirements and align them with technical delivery timelines. I approach problems with a focus on quality assurance, having led initiatives that improved project efficiency by up to 20% through rigorous data validation.
+### 🛠️ Technical Arsenal
 
+**Data & Visualization:** * SQL, Tableau, Power BI, Excel, Jira
 
-**📫 How to reach me:** anegimo.patience@gmail.com
+**Product & Strategy:** * Agile/Scrum, Six Sigma Green Belt, User Requirements Documentation, KPI Development
 
-**⚡ Fun fact:** For everyday my daughter has lived, I have gotten a kiss! #Toddler/new born phase 😄
--->
+**Cloud & AI:** * AWS Cloud (Practitioner)
+* **Currently Learning:** Deepening my understanding of LLM prompt engineering and AI ethics.
+
+---
+
+### 🚀 Experience Highlights
+
+* **AI Safety & Speed (Project Gemini):** Optimized documentation pipelines, reducing turnaround time and ensuring AI outputs strictly met safety guidelines.
+* **Data-Driven Efficiency:** Built automated models and dashboards that improved delivery efficiency by **15%** and slashed manual data processing by **50%**.
+* **Product Definition (BlackLine):** Defined success criteria and KPIs for program features, directly influencing future product iterations.
+
+---
+
+### 🌍 The Creative Side & Global Perspective
+
+My background in **International Relations** and **Business Analytics** allows me to bring a unique global lens to data science. I don't just see numbers; I see the interconnected systems they represent.
+
+* **Outside of Data:** You can find me in the kitchen! I love to cook and am a massive fan of watching professional cooking shows to find my next inspiration. 🍳
+  
+* **Let's Connect:** * [LinkedIn](https://www.linkedin.com/in/anegimo)
+    * 📧 [anegimo.patience@gmail.com](mailto:anegimo.patience@gmail.com)
+
+---
+*“Building safer financial products through data-backed insights and a builder’s mindset.”*
